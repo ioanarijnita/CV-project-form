@@ -13,4 +13,4 @@ In order to start the application use the `yarn start` command in the terminal.
 After starting the application a webpage will be open and you will be able to see the design and the static inputs that had been added.
 
 
-<img src="docs/first-page.png"/>
+<img src="docs/firstPage.png"/>
